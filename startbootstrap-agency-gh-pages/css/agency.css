@@ -13,7 +13,7 @@ p {
 a {
   color: #A259a1; }
   a:hover {
-    color: #fec503; }
+    color: #4A4A4A; }
 
 .text-primary {
   color: #A259A1 !important; }
@@ -68,6 +68,7 @@ section {
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important; }
 
 ::-moz-selection {
+
   background: #a259a1;
   text-shadow: none; }
 
