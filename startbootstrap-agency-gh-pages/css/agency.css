@@ -11,12 +11,12 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #fed136; }
+  color: #A259a1; }
   a:hover {
     color: #fec503; }
 
 .text-primary {
-  color: #fed136 !important; }
+  color: #A259A1 !important; }
 
 h1,
 h2,
@@ -26,6 +26,10 @@ h5,
 h6 {
   font-weight: 700;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+  h4 {
+    color: #a259a1;
+  }
 
 section {
   padding: 100px 0; }
@@ -54,11 +58,11 @@ section {
   padding: 20px 40px; }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136; }
+  background-color: #a259a1;
+  border-color: #a259a1; }
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-    background-color: #fec810 !important;
-    border-color: #fec810 !important;
+    background-color: #B065A2 !important;
+    border-color: #B065A2 !important;
     color: white; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important; }
@@ -68,7 +72,7 @@ section {
   text-shadow: none; }
 
 ::selection {
-  background: #fed136;
+  background: #B065A2;
   text-shadow: none; }
 
 img::selection {
@@ -78,7 +82,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #fed136; }
+  -webkit-tap-highlight-color: #B065A2; }
 
 #mainNav {
   background-color: #212529; }
@@ -89,7 +93,7 @@ body {
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: #fed136;
+    background-color: #A259A1;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
     color: #fed136;
